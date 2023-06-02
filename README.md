@@ -12,7 +12,7 @@
 - 📫 How to reach me **Asbjorn#6086 on Discord!**
 
 - About me
-  - 22 years old
+  - :birthday: 22 years old
   - 💻 Tech guy
   - 🎮 Game enojoyer
 
