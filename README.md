@@ -14,7 +14,7 @@
 - About me
   - 22 years old
   - 💻 Tech guy
-  -Gamer
+  - 🎮 Game enojoyer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
