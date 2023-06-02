@@ -49,7 +49,7 @@
  ![Wordpress](https://img.shields.io/badge/Wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 <h4 align="left">Testing:</h4>
 
- ![Cypress](https://img.shields.io/badge/-Cypress-007780?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Puppeteer](https://img.shields.io/badge/-Puppeteer-01d8a2?style=for-the-badge&logo=puppeteer&logoColor=black)
+ ![Puppeteer](https://img.shields.io/badge/-Puppeteer-01d8a2?style=for-the-badge&logo=puppeteer&logoColor=black) ![Cypress](https://img.shields.io/badge/-Cypress-007780?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
 <h4 align="left">Package Manager:</h4>
 
  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
