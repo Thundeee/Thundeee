@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Asbjørn</h1>
 <h3 align="center">A frontend developer from Norway!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thundeee&label=Profile%20views&color=0e75b6&style=flat" alt="thundeee" /> </p>
-
 - 🔭 I’m currently working on [Teliastats](https://thundeee.github.io/TeliaStats/)
 
 - 🌱 I’m currently learning **C#**
