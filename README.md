@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **Asbjorn#6086 on Discord!**
 
+- About me
+- 22 years old
+- Tech person
+- Gamer
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/potetsalatlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="30" width="40" /></a>
