@@ -17,11 +17,9 @@
   - 🎮 Game enjoyer
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/potetsalatlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asbjørn-abelsen-sekse-346961241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asbjørn-abelsen-sekse-346961241" height="30" width="40" /></a>
-<a href="https://discord.com/users/183978195551387649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asbjorn#6086" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/potetsalatlol" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="40" width="40" /></a>
+<a href="https://discord.com/users/183978195551387649" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asbjorn#6086" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/asbjørn-abelsen-sekse-346961241" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asbjørn-abelsen-sekse-346961241" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages:</h4>
