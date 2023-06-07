@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Teliastats](https://thundeee.github.io/TeliaStats/)
 
-- 🌱 I’m currently learning ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 - 🏫 I’m currently studying **Front-end development at Noroff**
 
 - 👨‍💻 My portfolio for recent work is available here ["legg inn link til portfolio"]("legg inn link til portfolio")
@@ -15,6 +13,10 @@
   - 🎂 22 years old
   - 💻 Tech guy
   - 🎮 Game enjoyer
+
+<h3 align="left">🌱 I’m currently learning:</h3> 
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/potetsalatlol" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="40" width="40" /></a>
