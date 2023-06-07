@@ -43,7 +43,7 @@
 
  ![Puppeteer](https://img.shields.io/badge/-Puppeteer-01d8a2?style=for-the-badge&logo=puppeteer&logoColor=black) ![Cypress](https://img.shields.io/badge/-Cypress-007780?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
  
-   <h3>🌱 I’m currently learning</h3>
+   <h3>I’m currently learning</h3>
  
    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
