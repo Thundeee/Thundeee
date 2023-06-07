@@ -14,10 +14,6 @@
   - 💻 Tech guy
   - 🎮 Game enjoyer
 
- 🌱 I’m currently learning
- 
-   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/potetsalatlol" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="40" width="40" /></a>
@@ -46,3 +42,8 @@
 <h4 align="left">Testing:</h4>
 
  ![Puppeteer](https://img.shields.io/badge/-Puppeteer-01d8a2?style=for-the-badge&logo=puppeteer&logoColor=black) ![Cypress](https://img.shields.io/badge/-Cypress-007780?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+ 
+   <h3>🌱 I’m currently learning</h3>
+ 
+   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
