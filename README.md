@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently studying **Front-end development at Noroff**
 
-- 👨‍💻 My portfolio for recent work is available here ["legg inn link til portfolio"]("legg inn link til portfolio")
+- 👨‍💻 My portfolio for recent work is not currently available as its outdated
 
 - 📫 How to reach me **Asbjorn#6086 on Discord!**
 
