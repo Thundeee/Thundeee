@@ -6,11 +6,11 @@
 - 🏫 I’m recently finished studying **Front-end development at Noroff**
 
 - 👨‍💻 My portfolio for recent work is not currently available as its outdated but here are some of my work
-<div align="center">
+<div align="left">
      
 | Name    | Repo      | 
 | ----------- | ----------- |
-| [Teliastats](https://thundeee.github.io/TeliaStats/)          | [[Not open source](https://github.com/Thundeee/telistatsInfo/blob/main/README.md)] |
+| [Teliastats](https://thundeee.github.io/TeliaStats/)          | [Not open source](https://github.com/Thundeee/telistatsInfo/blob/main/README.md) |
 |test2|tester|
 
 </div>
