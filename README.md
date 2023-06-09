@@ -17,7 +17,7 @@
 </div>
 
 
-- 📫 How to reach me **asbjornnn on Discord!**
+- 📫 Best way to reach me is **asbjornnn on Discord!**
 
 - About me
   - 🎂 22 years old
