@@ -11,7 +11,8 @@
 | Name    | Repo      | 
 | ----------- | ----------- |
 | [Teliastats](https://thundeee.github.io/TeliaStats/)          | [Not open source](https://github.com/Thundeee/telistatsInfo/blob/main/README.md) |
-|test2|tester|
+|Workflow|[open source](https://github.com/Thundeee/social-media-client/blob/workflow/README.md)|
+| Quickshop | [open source](https://github.com/Thundeee/react-ca)|
 
 </div>
 
