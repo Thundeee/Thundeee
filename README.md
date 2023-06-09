@@ -5,9 +5,18 @@
 
 - 🏫 I’m recently finished studying **Front-end development at Noroff**
 
-- 👨‍💻 My portfolio for recent work is not currently available as its outdated
+- 👨‍💻 My portfolio for recent work is not currently available as its outdated but here are some of my work
+<div align="center">
+     
+| Name    | Repo      | 
+| ----------- | ----------- |
+| [Teliastats](https://thundeee.github.io/TeliaStats/)          | [[Not open source](https://github.com/Thundeee/telistatsInfo/blob/main/README.md)] |
+|test2|tester|
 
-- 📫 How to reach me **Asbjorn#6086 on Discord!**
+</div>
+
+
+- 📫 How to reach me **asbjornnn on Discord!**
 
 - About me
   - 🎂 22 years old
