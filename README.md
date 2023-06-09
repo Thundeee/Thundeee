@@ -12,7 +12,7 @@
 | ----------- | ----------- |
 | [Teliastats](https://thundeee.github.io/TeliaStats/)          | [Not open source](https://github.com/Thundeee/telistatsInfo/blob/main/README.md) |
 |Workflow|[open source](https://github.com/Thundeee/social-media-client/blob/workflow/README.md)|
-| [Quickshop](https://symphonious-sopapillas-91fe27.netlify.app/) | [open source](https://github.com/Thundeee/react-ca/blob/main/README.md|
+| [Quickshop](https://symphonious-sopapillas-91fe27.netlify.app/) | [open source](https://github.com/Thundeee/react-ca/blob/main/README.md)|
 
 </div>
 
