@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Teliastats](https://thundeee.github.io/TeliaStats/)
 
-- 🏫 I’m recently finished studying **Front-end development at Noroff**
+- 🏫 I recently finished studying **Front-end development at Noroff**
 
 - 👨‍💻 My portfolio for recent work is not currently available as its outdated but here are some of my work
 <div align="left">
