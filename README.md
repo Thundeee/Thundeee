@@ -5,7 +5,7 @@
 
 - 🏫 I recently finished studying **Front-end development at Noroff**
 
-<!--- 👨‍💻 My portfolio for recent work is not currently available as its outdated but here are some of my work-->
+ 👨‍💻 My portfolio for recent work is not currently available as its outdated but here are some of my work
 <div align="left">
      
 | Name    | Repo      | 
@@ -20,7 +20,7 @@
 - 📫 Best way to reach me is **asbjornnn on Discord!**
 
 - About me
-  - 🎂 22 years old
+  - 🎂 23 years old
   - 💻 Tech guy
   - 🎮 Game enjoyer
 
