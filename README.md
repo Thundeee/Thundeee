@@ -20,13 +20,12 @@
 - 📫 Best way to reach me is **asbjornnn on Discord!**
 
 - About me
-  - 🎂 23 years old
+  - 🎂 24 years old
   - 💻 Tech guy
   - 🎮 Game enjoyer
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/potetsalatlol" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="potetsalatlol" height="40" width="40" /></a>
 <a href="https://discord.com/users/183978195551387649" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asbjorn#6086" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/asbjørn-abelsen-sekse-346961241" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asbjørn-abelsen-sekse-346961241" height="40" width="40" /></a>
 
